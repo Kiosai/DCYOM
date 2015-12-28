@@ -1,7 +1,7 @@
 # DCYOM
 DevOps Choose-Your-Own-Adventure Madlibs
 
-Not entirely certain where this is gonna go - started at a Boston DevOps meetup as an idea from someone not-me about a "DevOps Choose-Your-Own-Adventure Novel."  Evolved into a "madlibs" style thing as I was too lazy to dream up names for things.
+Not entirely certain where this is gonna go - started at a Boston DevOps meetup as an idea from @semisoluble about a "DevOps Choose-Your-Own-Adventure Novel."  Evolved into a "madlibs" style thing as I was too lazy to dream up names for things.
 
 Haven't worked out any actual story yet, haven't worked out how to compile this into an actual novel yet.  Just so far it's a collection of pages formatted as follows:
 
